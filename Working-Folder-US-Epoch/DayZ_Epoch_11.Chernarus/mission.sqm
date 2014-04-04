@@ -15,10 +15,16 @@ class Mission
 		"cacharacters_pmc",
 		"ca_modules_functions",
 		"glt_m300t",
-		"pook_h13",
 		"csj_gyroac",
 		"map_eu",
-		"jetskiyanahuiaddon"
+		"jetskiyanahuiaddon",
+		"kpfswaysigns",
+		"buildings3",
+		"mbg_african_buildings",
+        "mbg_killhouses",
+		"mbg_buildings_3",
+        "pook_h13",
+        "aif_arma1buildings"
 	};
 	addOnsAuto[]=
 	{

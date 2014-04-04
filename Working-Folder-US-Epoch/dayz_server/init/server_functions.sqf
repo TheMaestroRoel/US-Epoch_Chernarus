@@ -932,3 +932,14 @@ server_setLocalObjVars = {
 	
 	diag_log format["SAFE LOCKED: ID:%1 UID:%2 BY %3(%4)", _objectID, _objectUID, (name _player), (getPlayerUID _player)];
 };
+
+execVM "\z\addons\dayz_server\Edited-Maps\GOC_LM_tubf.sqf";
+execVM "\z\addons\dayz_server\Edited-Maps\GOC_LM_wlcr.sqf";
+execVM "\z\addons\dayz_server\Edited-Maps\GOC_TE_bash.sqf";
+execVM "\z\addons\dayz_server\Edited-Maps\GOC_TE_btcc.sqf";
+execVM "\z\addons\dayz_server\Edited-Maps\GOC_TE_htlh.sqf";
+execVM "\z\addons\dayz_server\Edited-Maps\GOC_TE_klen.sqf";
+execVM "\z\addons\dayz_server\Edited-Maps\GOC_TE_neaf.sqf";
+execVM "\z\addons\dayz_server\Edited-Maps\GOC_TE_stary.sqf";
+execVM "\z\addons\dayz_server\Edited-Maps\GOC_SI_Grishino";
+execVM "\z\addons\dayz_server\Edited-Maps\GOC_SI_Zelenogorsk";
