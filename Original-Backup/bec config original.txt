@@ -1,0 +1,16 @@
+#GENERATED AUTOMATICALLY BY VERT HOSTING
+[Bec]
+Ip = 169.254.174.7
+Port = 2302
+BePath = C:\TCAFiles\Users\AsiefS\742\Bliss\BattlEye
+Admins = Admins.xml
+Commands = Commands.xml
+LogDir = Server1
+
+[Misc]
+Scheduler = Scheduler.xml
+AsciiChatOnly = True
+IgnoreChatChars = 
+ConsoleColor = 1f
+Timeout = 60
+KickLobbyIdlers = 5000
