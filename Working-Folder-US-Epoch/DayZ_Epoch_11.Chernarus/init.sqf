@@ -119,3 +119,4 @@ execVM "\z\addons\dayz_code\external\DynamicWeatherEffects.sqf";
 execVM "R3F_ARTY_AND_LOG\init.sqf";
 [] execvm "custom\SafeZone\SafeZoneCommander.sqf";
 [] execVM "custom\buildings\excbridge.sqf";
+[] execVM "custom\buildings\skacast.sqf";
