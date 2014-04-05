@@ -120,3 +120,5 @@ execVM "R3F_ARTY_AND_LOG\init.sqf";
 [] execvm "custom\SafeZone\SafeZoneCommander.sqf";
 [] execVM "custom\buildings\excbridge.sqf";
 [] execVM "custom\buildings\skacast.sqf";
+[] execVM "custom\buildings\Anglorum.sqf";
+[] execVM "custom\buildings\NWAF_2.sqf";
